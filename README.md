@@ -25,3 +25,7 @@
 <p>Ligação em paralelo:  A tensão será a mesma em todos os pontos do circuito em paralelo.</p>
 
 <p></p>
+
+<h4>Constantes utilizadas: </h4>
+<p>Sensor ultrassônico(trigger/echo) : s=0.01715cm para 1segundo.</p>
+<p>Conversão de temperatura: float t = 125.0*( float(a) - 104.0) / 254.0; </p>
