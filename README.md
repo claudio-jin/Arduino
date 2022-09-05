@@ -17,6 +17,7 @@
 <p><strong>Sensores:</strong> Detectam dados do ambiente externo e enviam aos microcontroladores.</p>
 <p><strong>Microcontroladores:</strong>Recebem dados, processam informações e acionam atuadores.</p>
 <p><strong>Atuadores:</strong> Geram alguma ação no sistema</p>
+<br/>
 
 <h3>Conceitos base eletrônica: :pencil2: </h3>
 
